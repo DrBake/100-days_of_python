@@ -8,3 +8,4 @@ Welcome to this journey of coding with python for the next 100 days.
 6. Day 6: Python functions and Karel
 7. Day 7: Hangman
 8. Day 8: Function parameters and Caesar Cipher
+9. Day 9: Dictionaries, Nesting and the secret auction
