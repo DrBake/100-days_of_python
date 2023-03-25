@@ -11,4 +11,5 @@ Welcome to this journey of coding with python for the next 100 days.
 9. Day 9: Dictionaries, Nesting and the secret auction
 10. Day 10: Functions with Outputs
 11. Day 11: The Blackjack Capstone Project.
-12. Scope and Number Guessing Game
+12. Day 12: Scope and Number Guessing Game
+13. Day 13: Debugging - How to find and fix errors in your code
